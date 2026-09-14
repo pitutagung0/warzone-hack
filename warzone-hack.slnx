@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/warzone-hack.Core/warzone-hack.Core.csproj" />
+    <Project Path="src/warzone-hack.Loader/warzone-hack.Loader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/warzone-hack.Core.Tests/warzone-hack.Core.Tests.csproj" />
+  </Folder>
+</Solution>
