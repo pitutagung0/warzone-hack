@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>WzHack.Core</RootNamespace>
+    <AssemblyName>WzHack.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
